@@ -1,7 +1,6 @@
 import React from 'react';
 import {Link} from "react-router-dom";
-import {Page2} from "../../pages";
-
+import './Page2Link.css'
 const Page2Link = () => {
     return (
         <div className="Page2Link">

@@ -1,4 +1,5 @@
 import React from 'react';
+import "./Body.css"
 import{Page2Link, Page3Link} from "../../components";
 
 const Body = () => {
