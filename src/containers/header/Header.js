@@ -1,4 +1,5 @@
 import React from 'react';
+import './Header.css'
 import {WhatsUp} from "../../components";
 
 const Header = () => {

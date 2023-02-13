@@ -1,6 +1,6 @@
 import React from 'react';
 import {Link} from "react-router-dom"
-
+import './Page3Link.css'
 const Page3Link = () => {
     return (
         <div className="Page3Link">

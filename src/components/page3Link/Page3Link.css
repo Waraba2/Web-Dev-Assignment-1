@@ -1,0 +1,10 @@
+.Page3Link {
+    border: solid 1px;
+    border-radius: 5px;
+    padding: 7px 30px 7px 30px;
+    margin-right: 5px;
+}
+.Page3Link a {
+    text-decoration: none;
+    color: black;
+}
