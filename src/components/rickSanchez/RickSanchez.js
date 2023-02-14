@@ -1,4 +1,5 @@
 import React from 'react';
+import './RickSanchez.css'
 
 const RickSanchez = () => {
     return (
