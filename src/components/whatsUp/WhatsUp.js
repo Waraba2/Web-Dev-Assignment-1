@@ -1,4 +1,5 @@
 import React from 'react';
+import './WhatsUp.css'
 
 const WhatsUp = () => {
     return (

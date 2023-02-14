@@ -6,9 +6,9 @@ const Page2BodyTable = () => {
         <div className="Page2BodyTable">
             <table className="caption_table">
                 <tr>
-                    <td><img src={lion} alt='lion' style={{height:200, width:250}}/></td>
-                    <td><img src={jaguar} alt='puma' style={{height:200, width:250}}/></td>
-                    <td><img src={puma} alt='Jaguar' style={{height:200, width:250}}/></td>
+                    <td><img src={lion} alt='lion' style={{height:250, width:250}}/></td>
+                    <td><img src={jaguar} alt='puma' style={{height:250, width:250}}/></td>
+                    <td><img src={puma} alt='Jaguar' style={{height:250, width:250}}/></td>
                 </tr>
                 <tr>
                     <td><p>Lion</p></td>
