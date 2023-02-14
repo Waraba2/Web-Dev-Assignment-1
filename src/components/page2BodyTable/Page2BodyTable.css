@@ -1,0 +1,11 @@
+.Page2BodyTable {
+   margin-bottom: 20px;
+}
+
+td {
+    border: 2px solid;
+}
+
+p {
+    text-align: center;
+}
