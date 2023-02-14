@@ -2,6 +2,7 @@
 import './App.css';
 import {Home, Page2, Page3} from './pages'
 import { BrowserRouter, Routes, Route } from "react-router-dom";
+
 function App() {
   return (
     <div className="App">
