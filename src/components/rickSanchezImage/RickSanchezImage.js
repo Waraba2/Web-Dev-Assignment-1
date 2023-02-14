@@ -4,7 +4,7 @@ import {rick} from '../../assets'
 const RickSanchezImage = () => {
     return (
         <div className="RickSanchezImage">
-            <img src={rick} alt='Rick Sanchez' style={{height:200, width:250}}/>
+            <img src={rick} alt='Rick Sanchez' style={{height:300, width:250}}/>
         </div>
     );
 };
